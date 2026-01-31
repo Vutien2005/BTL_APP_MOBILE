@@ -203,15 +203,3 @@ btl_mobile/
 3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Tạo Pull Request
-
-## Giấy phép
-
-Dự án này được phân phối dưới giấy phép ISC.
-
-## Liên hệ
-
-Nếu có câu hỏi hoặc góp ý, vui lòng tạo issue trên GitHub hoặc liên hệ với nhóm phát triển.
-
----
-
-*Tài liệu này được tạo tự động dựa trên cấu trúc dự án. Vui lòng tham khảo các file README riêng trong từng thư mục con để có thông tin chi tiết hơn.*
